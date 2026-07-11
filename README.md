@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, ex
 
 ## 🚀 Live Website
 
-🔗 **Portfolio:** [[[(https://github.com/Harikissan/HariKissan-Portfolio)]((https://harikissan.github.io/HariKissan-Portfolio/))]
+🔗 **Portfolio:** https://harikissan.github.io/HariKissan-Portfolio/
 
 ## 👨‍💻 About Me
 
